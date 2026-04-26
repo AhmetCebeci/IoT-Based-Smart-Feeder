@@ -25,7 +25,7 @@ Proje, sadece teknik bir kurulum değil, aynı zamanda kapsamlı bir pazar ve ma
       <td align="center" style="width:50%">
         <strong>Devre Şeması (Fritzing)</strong><br>
         <em>Sistemin elektronik bileşenlerinin bağlantı yapısı.</em><br><br>
-        <img src="img/fritzing.jpg" alt="IoT Smart Pet Feeder Fritzing Devre Şeması" width="100%"/>
+        <img src="img/fritzing.jpeg" alt="IoT Smart Pet Feeder Fritzing Devre Şeması" width="100%"/>
       </td>
       <td align="center" style="width:50%">
         <strong>Proje Akış Şeması</strong><br>
