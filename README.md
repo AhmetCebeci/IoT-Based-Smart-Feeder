@@ -13,7 +13,7 @@ Bu proje, evcil hayvan sahiplerinin internet üzerinden hayvanlarını beslemele
 
 Proje, sadece teknik bir kurulum değil, aynı zamanda kapsamlı bir pazar ve maliyet analizini de içermektedir:
 
-* **Maliyet Analizi:** Proje kapsamında detaylı bir malzeme maliyet tablosu hazırlanmıştır. Aşağıdaki grafik, proje maliyetlerinin bileşenlerine göre dağılımını göstermektedir.
+* **Maliyet Analizi:** Proje kapsamında detaylı bir malzeme maliyet tablosu hazırlanmıştır.
 * **İş Modeli:** IoT teknolojilerinin pazar avantajlarını içeren Business Canvas İş Modeli oluşturulmuş, hedef kitle analizi ve pazarlama stratejileri raporlanmıştır.
 
 ---
@@ -28,9 +28,9 @@ Proje, sadece teknik bir kurulum değil, aynı zamanda kapsamlı bir pazar ve ma
         <img src="img/fritzing.jpg" alt="IoT Smart Pet Feeder Fritzing Devre Şeması" width="100%"/>
       </td>
       <td align="center" style="width:50%">
-        <strong>Maliyet Dağılım Grafiği</strong><br>
-        <em>Proje bileşenlerinin bütçe üzerindeki yüzdesel dağılımı.</em><br><br>
-        <img src="img/chart.jpeg" alt="IoT Projesi Maliyet Analizi Grafiği" width="100%"/>
+        <strong>Proje Akış Şeması</strong><br>
+        <em>Sistemin çalışma mantığı ve karar mekanizması.</em><br><br>
+        <img src="img/chart.jpeg" alt="IoT Projesi Akış Şeması" width="100%"/>
       </td>
     </tr>
   </table>
